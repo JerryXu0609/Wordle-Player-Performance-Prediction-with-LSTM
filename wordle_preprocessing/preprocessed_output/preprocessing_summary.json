@@ -1,0 +1,14 @@
+{
+  "original_shape": [
+    359,
+    20
+  ],
+  "date_min": "2022-01-07 00:00:00",
+  "date_max": "2022-12-31 00:00:00",
+  "n_samples_time_series": 352,
+  "feature_cols": [
+    "mean_tries",
+    "success_rate",
+    "hard_mode_pct"
+  ]
+}

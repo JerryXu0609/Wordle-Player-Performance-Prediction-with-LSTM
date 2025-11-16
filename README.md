@@ -1,3 +1,5 @@
+https://github.com/JerryXu0609/Wordle-Player-Performance-Prediction-with-LSTM
+
 # 基于 LSTM 的 Wordle 玩家表现预测研究
 
 本项目旨在利用深度学习方法，对 Wordle 游戏玩家的每日表现进行数据驱动的建模与预测。通过对 Wordle 官方公布的玩家统计数据进行时间序列分析，本研究构建了一个基于 **长短期记忆网络（LSTM）** 的预测模型，用于预测下一日玩家的平均猜词次数（mean_tries），并进一步探索 Wordle 难度变化背后的行为模式。
